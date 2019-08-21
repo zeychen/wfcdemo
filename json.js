@@ -1,5 +1,5 @@
 $().ready(function(){
-    $.getJSON( "/data.json", function( data ) {
+    $.getJSON( "src/testJSON.json", function( data ) {
     console.log(data);
   });
 });
