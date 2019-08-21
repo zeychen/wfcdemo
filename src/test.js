@@ -1,4 +1,5 @@
-const Phaser = window.phaser;
+const Phaser = Window.phaser;
+console.log(Window);
 
 var currentTile = 0;
 var bmd;
