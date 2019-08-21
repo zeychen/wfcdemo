@@ -1,5 +1,5 @@
-// import {Controller} from './Controller/Controller'
-// import * as test_json from "./testJSON.json!json"
+const Phaser = window.phaser;
+
 var currentTile = 0;
 var bmd;
 var map;
